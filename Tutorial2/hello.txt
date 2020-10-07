@@ -1,0 +1,3 @@
+Hello!
+My name is Dan Kovacevich, I am a sophomore studying CS.
+A fun fact about myself is that I sell exotic fruits at a farmers market.
